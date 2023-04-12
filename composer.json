@@ -1,0 +1,10 @@
+{
+  "require": {
+    "vladimir163/lead-generator": "dev-master",
+    "spatie/async": "^1.5",
+    "vlucas/phpdotenv": "^5.5"
+  },
+  "autoload": {
+    "classmap": ["."]
+  }
+}
